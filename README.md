@@ -110,8 +110,3 @@ If no filename is provided, the editor uses/creates a default file named foo._.
 # Compatibility:
 
 cog is compatible with Windows, Linux, MacOS and general Unix systems. Android systems are included to full compatibility on version 0.3.
-
-
-# Screenshot:
-
-<a href="https://ibb.co/xqPrgNKH"><img src="https://i.ibb.co/Jj0Sp9WQ/Shot-2025-07-09-200041.png" alt="cog-screenshot" border="0"></a>
